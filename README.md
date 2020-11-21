@@ -1,2 +1,2 @@
-# AmarProject
-This is Python project
+# pos_project
+ This is pos project
